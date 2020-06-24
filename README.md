@@ -1,1 +1,2 @@
-# xcommands
+# Xcommands
+Remake of cmd
